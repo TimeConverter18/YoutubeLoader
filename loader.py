@@ -20,7 +20,3 @@ def video_name(url):
             return s
     except:
         return 'Не найдено'
-if __name__ == "__main__":
-    download_video('https://youtu.be/AH-qc_Ab8lA?si=Lg1AlvdvjYftQNsE')
-
-#https://youtu.be/AH-qc_Ab8lA?si=Lg1AlvdvjYftQNsE
